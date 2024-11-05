@@ -1,9 +1,3 @@
-<p>I am <b>Vanshika Joshi</b></p>
-<p>I have completed my secondary education from <b>Convent school</b></p>
-<p>I have completed my high school studies from <b>Springdales school</b></p>
-<p>I am a first year student at <b>LPU</b> majoring in <b>BTech CSE</b>.I am passionate about AI and eager to apply my skills in real world settings.</p>
-<p>I aspire to <b>Machine Learning Engineer</b>, and I am excited to gain experience and knowledge throughout my college journey.</p>
-<!---
-Vanshika-girl/Vanshika-girl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Diligent first-year BTech (CSE in AI and ML) student at Lovely Professional University, passionate about Artificial Intelligence. Dedicated and committed to expanding my skills in coding and continuously improving my technical knowledge. I actively engage in learning opportunities, whether through formal education, online courses, or hands-on projects, to enhance my proficiency and stay current with industry trends.
+My aim is to create value and impact through innovation and technology. I am passionate about exploring new opportunities and challenging the status-quo. As I embark on my academic journey, I am eager to explore new challenges and gain practical experience through internships, projects, and collaborations. I believe in the power of networking and collaboration, and I am looking to connect with professionals and peers who share my interests!
+In addition to my academic pursuits, I enjoy dancing that enrich my life and contribute to my overall growth.
